@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "enum": {
+      "commandName": "Project"
+    }
+  }
+}

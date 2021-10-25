@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vsCode_10", "vsCode_10\vsCode_10.csproj", "{80B97C48-15A2-470C-A863-DBA2E8415684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "string\String.csproj", "{ADA45B25-5B12-4D5D-BB92-BCF4214BC5D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String", "string\String.csproj", "{ADA45B25-5B12-4D5D-BB92-BCF4214BC5D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "standard_input,output", "standard_input,output\standard_input,output.csproj", "{8DB6C750-98C3-4F91-9F2A-D201D3D0266C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "standard_input,output", "standard_input,output\standard_input,output.csproj", "{8DB6C750-98C3-4F91-9F2A-D201D3D0266C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum", "enum\enum.csproj", "{6B465616-7AC2-4674-A461-EAE3C698837E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8DB6C750-98C3-4F91-9F2A-D201D3D0266C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DB6C750-98C3-4F91-9F2A-D201D3D0266C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DB6C750-98C3-4F91-9F2A-D201D3D0266C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B465616-7AC2-4674-A461-EAE3C698837E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B465616-7AC2-4674-A461-EAE3C698837E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B465616-7AC2-4674-A461-EAE3C698837E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B465616-7AC2-4674-A461-EAE3C698837E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
