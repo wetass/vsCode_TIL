@@ -12,18 +12,18 @@ namespace Enum
             Jeju = 10
         }
 
-        //static void Main(string[] args)
-        //{
-        //    City myCity;
+        static void Main(string[] args)
+        {
+            City myCity;
 
-        //    myCity = City.Seoul;
+            myCity = City.Seoul;
 
-        //    int cityValue = (int)myCity;
+            int cityValue = (int)myCity;
 
-        //    if (myCity == City.Seoul)
-        //    {
-        //        Console.WriteLine("Welcome to Seoul");
-        //    }
-        //}
+            if (myCity == City.Seoul)
+            {
+                Console.WriteLine("Welcome to Seoul");
+            }
+        }
     }
 }
